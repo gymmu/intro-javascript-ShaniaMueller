@@ -47,7 +47,7 @@ Erstellen Sie ein Text-Eingabefeld mit der ID `input` und ein `pre`-Element mit 
 
 ### Aufgabe 8
 
-Erstellen Sie eigene einfache Aufgaben die Sie mit Ihrem aktuellen Wissen lösen können. Beschreiben Sie die Aufgabe im HTML und schreiben Sie eine Funktion die Ihre Aufgabe löst. Sie können auch andere Element dafür verwenden.
+Erstellen Sie eigene einfache Aufgaben die Sie mit Ihrem aktuellen Wissen lösen können. Beschreiben Sie die Aufgabe im HTML und schreiben Sie eine Funktion die Ihre Aufgabe löst. Sie können auch andere Element dafür verwenden. 
 
 ### Aufgabe 9
 

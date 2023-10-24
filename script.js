@@ -52,3 +52,18 @@ function writeText() {
   outputElem.textContent = newValue
   }
    
+
+  function updateRange() {
+const rangeElem = document.querySelector("#range")
+const headerElement = document.querySelector("#range-target")
+
+const alpha = parseInt(rangeElem.value) / 100
+const red = parseInt(document.querySelector("#red").value) / 100 * 255
+const green = parseInt(document.querySelector("#green").value) / 100 * 255
+const blue = parseInt(document.querySelector("#blue").value) / 100 * 255
+
+headerElement.style.backgroundColor = `rgba(${red}, ${green}, ${blue}, ${alpha})`
+
+  }
+
+
